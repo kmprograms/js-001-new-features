@@ -1,4 +1,4 @@
-## Zobacz, jak prosto w Python 3.12 stosować Constrained oraz Bounded Type Variables!
+## Zobacz, jak używać metody groupBy, toSorted, toSpliced, toReversed, with z tablicami w JavaScript!
 
 ### [Obejrzyj Nagranie Na Moim Kanale YT](https://youtu.be/9vE688v_Hco)
 ### [Strona KM Programs](https://km-programs.pl/)
